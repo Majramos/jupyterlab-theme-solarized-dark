@@ -1,23 +1,24 @@
 # jupyterlab-theme-solarized-dark
 
 ![Github Actions Status](https://github.com/AllanChain/jupyterlab-theme-solarized-dark/workflows/Build/badge.svg)
-![License](https://img.shields.io/github/license/AllanChain/jupyterlab-theme-solarized-dark.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/AllanChain/jupyterlab-theme-solarized-dark)
-![GitHub stars](https://img.shields.io/github/stars/AllanChain/jupyterlab-theme-solarized-dark)
+![License](https://img.shields.io/github/license/Majramos/jupyterlab-theme-solarized-dark.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/Majramos/jupyterlab-theme-solarized-dark)
 
-[![NPM Version](https://img.shields.io/npm/v/jupyterlab-theme-solarized-dark.svg)](https://npmjs.org/package/jupyterlab-theme-solarized-dark)
-![Monthly Downloads](https://img.shields.io/npm/dm/jupyterlab-theme-solarized-dark.svg?label=npm%20downloads)
 
-[![PyPI](https://img.shields.io/pypi/v/jupyterlab_theme_solarized_dark)](https://pypi.org/project/jupyterlab-theme-solarized-dark/)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/jupyterlab_theme_solarized_dark?label=pypi%20downloads)
+JupyterLab 3.x Solarized Dark extension.
 
-JupyterLab 2.x / 3.x Solarized Dark extension.
+Text editor colors slightly changed to fit my liking, but all credit goes to Allan for buildig this.
 
+Forked from [Allan Chain](https://github.com/AllanChain/jupyterlab-theme-solarized-dark)
 The theme is originally created by [Jae Hee Lee](http://jaeheelee.info/) [here](https://gist.github.com/dschaehi/ff6d30e6779a683053a1f078af178cdb)
 
-## Screenshot
+## Screenshots
 
-![Screenshot](https://user-images.githubusercontent.com/36528777/79721723-6927f680-8315-11ea-8a5b-e2c298eeed09.png)
+Before
+![Before](compare/before.png 'before')
+
+After
+![After](compare/after.png 'after')
 
 ## Prerequisites
 
