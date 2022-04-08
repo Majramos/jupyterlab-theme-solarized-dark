@@ -15,9 +15,11 @@ The theme is originally created by [Jae Hee Lee](http://jaeheelee.info/) [here](
 ## Screenshots
 
 Before
+
 ![before](https://user-images.githubusercontent.com/30323444/162431232-970d2cd8-ce70-4cd0-a817-381619d69b6a.PNG)
 
 After
+
 ![after](https://user-images.githubusercontent.com/30323444/162431218-5accd101-42f5-4958-8a3e-2b36d2f19f0e.PNG)
 
 ## Prerequisites
