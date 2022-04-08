@@ -61,7 +61,7 @@ with open("README.md", "r") as fh:
 setup_args = dict(
     name=name,
     version=version,
-    url="https://github.com/AllanChain/jupyterlab-theme-solarized-dark",
+    url="https://github.com/Majramos/jupyterlab-theme-solarized-dark",
     author="Allan Chain",
     description="JupyterLab 3.x Solarized Dark extension.",
     long_description= long_description,

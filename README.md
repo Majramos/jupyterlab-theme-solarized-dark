@@ -31,6 +31,7 @@ After
 - `v0.2.x` is mainly based on Jae Hee Lee's original theme
 - `v1.x` aims to provide a smoother looking.
 - Starting from `v2.x`, Jupyterlab `v3.x` support is added.
+- From `v3.x` color changes from Allan's theme were introduced.
 
 ## Requirements
 
